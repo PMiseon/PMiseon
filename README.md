@@ -5,9 +5,9 @@ PMiseon/PMiseon is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 --->
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=Soft&color=auto&height=300&section=header&text=DREAMING%20render&fontSize=90)
 
-📖 study record : <a href="https://dreaming-miseon.tistory.com/" > <br>
+📖 study record : https://dreaming-miseon.tistory.com/ <br>
 😊 daily record : https://blog.naver.com/misun9631
 
 
