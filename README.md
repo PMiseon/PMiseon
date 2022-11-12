@@ -5,9 +5,13 @@ PMiseon/PMiseon is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 --->
 
-📖 study record : https://dreaming-miseon.tistory.com/ <br>
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+
+📖 study record : <a href="https://dreaming-miseon.tistory.com/" > <br>
 😊 daily record : https://blog.naver.com/misun9631
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PMiseon&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PMiseon&langs_count=8)](https://github.com/PMiseon/github-readme-stats)
 
