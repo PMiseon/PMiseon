@@ -6,7 +6,6 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=300&section=header&text=Dreaming%Sun%20&fontSize=90)
 
 📖 study record : https://dreaming-miseon.tistory.com/ <br>
 
